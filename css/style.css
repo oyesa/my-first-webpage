@@ -1,15 +1,24 @@
-h1 {
+
+.header h1 {
   color: blue;
   text-align: center;
+  font-size: 50px;
+  text-align: center;
 }
-h2 {
-  color: green;
+.header h2 {
   font-style: italic;
   text-align: center;
 }
-p {
-  font-family: sans-serif;
+.text p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
 }
-ul {
+.text ul {
   line-height: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.links p {
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
 }
